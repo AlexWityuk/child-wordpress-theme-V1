@@ -1,0 +1,5 @@
+Redirect 301 /elencoasp/ /toplegal/news/elencoasp/
+Redirect 301 /centrostudi/  /toplegal/news/centrostudi/
+
+RewriteEngine On
+
